@@ -1,5 +1,0 @@
-merken bl seiten ferknüpfung
-
-Menü reduziert
-
-<li><a class="link" href="bl.html">Mein Leben beim<br> blinden Fußball</a></li>
