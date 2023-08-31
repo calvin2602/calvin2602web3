@@ -23,6 +23,8 @@
 
         <h1 class="logo">Calvin2602</h1>
 
+        <button class="mode-button" id="darkModeButton">Dark Mode</button>
+        
         <input type="checkbox" id="toggle_button">
 
         <label for="toggle_button" class="toggle_button">
@@ -102,6 +104,8 @@
         </h1>
     </section>
 
+    <script src="script.js"></script>
+    
     <script>
         const Benutzernamen = new URL(location.href).searchParams.get("Benutzernamen");
         const Passwort = new URL(location.href).searchParams.get("Passwort");
