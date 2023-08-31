@@ -44,6 +44,7 @@ section {
     padding: 0;
     font-size: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
 }
 
 body {
@@ -237,46 +238,4 @@ nav input[type="checkbox"] {
 .Zurück:hover {
     background-color: #1c1c1c;
     color: white;
-}
-
-
-/*witer*/
-
-body {
-    color: white;
-    font-family: Arial, sans-serif;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.dark-mode {
-    background-color: #1c1c1c;
-    color: white;
-}
-
-.container {
-    padding: 20px;
-    text-align: center;
-}
-
-.mode-button {
-    cursor: pointer;
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 5px;
-}
-
-
-/* Text color within .mein div */
-
-.dark-mode .mein {
-    color: white;
-}
-
-
-/* Default text color in light mode for .mein div */
-
-.mein {
-    color: black;
 }
