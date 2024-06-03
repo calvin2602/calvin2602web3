@@ -48,7 +48,7 @@ section {
 
 body {
     height: 100%;
-    background-color: var(--darker-background-color);
+    background-color: var(--background-color:);
 }
 
 nav {
