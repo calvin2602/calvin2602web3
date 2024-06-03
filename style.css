@@ -9,7 +9,7 @@
 }
 
 .s {
-    background-color: #010427;
+    background-color: var(--gray-backgruond-color);
 }
 
 section {
